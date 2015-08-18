@@ -1,0 +1,485 @@
+From noreply at berlios.de  Tue Aug  2 12:59:10 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Tue, 2 Aug 2005 12:59:10 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2136] create tasks for the items on the roadmap
+Message-ID: <200508021059.j72AxAxe007771@unicorn.berlios.de>
+
+Task #2136 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Misc
+Summary: create tasks for the items on the roadmap
+Percent Complete: 70%
+Status: Open
+Authority  : starcube
+Assigned to: 
+
+Description: several items on the roadmap are much to detailled. they must be added as tasks and removed from the roadmap.
+the roadmap should provide a rather high level sight to the projects 'roadmap' ;-)
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2136&group_id=3395&group_project_id=1010
+
+
+From noreply at berlios.de  Tue Aug  2 13:05:25 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Tue, 2 Aug 2005 13:05:25 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2254] add support for KIPI plugins
+Message-ID: <200508021105.j72B5PSY028740@unicorn.berlios.de>
+
+Task #2254 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: add support for KIPI plugins
+Percent Complete: 0%
+Status: Open
+Authority  : starcube
+Assigned to: 
+
+Description: libkipi contains several plugins for editing images. We should make this plugins available to kphotobook.
+see: http://digikamplugins.free.fr/kipi/html/
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2254&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Wed Aug  3 22:09:30 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Wed, 3 Aug 2005 22:09:30 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2212] Using SVG Icons
+Message-ID: <200508032009.j73K9UPh016841@unicorn.berlios.de>
+
+Task #2212 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Using SVG Icons
+Percent Complete: 95%
+Status: Open
+Authority  : starcube
+Assigned to: 
+
+Description: Instead of having png icons we should use SVG icons.
+starcube: test and prepare usage for SVG icons.
+chtom: change all icons to SVG.
+
+Follow-Ups:
+
+-------------------------------------------------------
+Date: 2005-Aug-03 22:09
+By: chtom
+
+Comment:
+Added all needed icons in SVG format. Somebody should look over them and let me know if they are 'acceptable' and if something is missing...
+
+-------------------------------------------------------
+Date: 2005-Jul-29 20:19
+By: starcube
+
+Comment:
+scg icons are working!
+all icons must be converted to SVG now...
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2212&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Wed Aug  3 22:11:54 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Wed, 3 Aug 2005 22:11:54 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2241] What's this
+Message-ID: <200508032011.j73KBsPa016908@unicorn.berlios.de>
+
+Task #2241 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: What's this
+Percent Complete: 35%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: What's this help for all the functions - most programs have badly implemented this
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2241&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Thu Aug  4 11:00:47 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Thu, 4 Aug 2005 11:00:47 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2258] Handbook for version 0.0.7
+Message-ID: <200508040900.j7490lp1020519@unicorn.berlios.de>
+
+Task #2258 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Handbook for version 0.0.7
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: Finish handbook!
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2258&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sun Aug  7 19:28:12 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sun, 7 Aug 2005 19:28:12 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2212] Using SVG Icons
+Message-ID: <200508071728.j77HSC9p000115@unicorn.berlios.de>
+
+Task #2212 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Using SVG Icons
+Percent Complete: 100%
+Status: Closed
+Authority  : starcube
+Assigned to: 
+
+Description: Instead of having png icons we should use SVG icons.
+starcube: test and prepare usage for SVG icons.
+chtom: change all icons to SVG.
+
+Follow-Ups:
+
+-------------------------------------------------------
+Date: 2005-Aug-03 22:09
+By: chtom
+
+Comment:
+Added all needed icons in SVG format. Somebody should look over them and let me know if they are 'acceptable' and if something is missing...
+
+-------------------------------------------------------
+Date: 2005-Jul-29 20:19
+By: starcube
+
+Comment:
+scg icons are working!
+all icons must be converted to SVG now...
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2212&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sun Aug  7 18:14:43 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sun, 7 Aug 2005 18:14:43 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2263] improve startup design
+Message-ID: <200508071614.j77GEhAq019400@unicorn.berlios.de>
+
+Task #2263 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: improve startup design
+Percent Complete: 0%
+Status: Open
+Authority  : starcube
+Assigned to: 
+
+Description: There must be done a lot things during startup. And those things must be done in the correct order because there are a lot of dependencies.
+Try to clean up this stuff a bit. Or at least document it somewhere...
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2263&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sun Aug 21 11:14:38 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sun, 21 Aug 2005 11:14:38 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2233] Menu Cleanup
+Message-ID: <200508210914.j7L9EcOJ003741@unicorn.berlios.de>
+
+Task #2233 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Menu Cleanup
+Percent Complete: 50%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description:     ====================================
+    || View                           ||
+    ====================================
+    - Refresh View               F5
+    - Autorefresh View   Shift + F5
+    ------------------------------------
+    - Zoom  --&gt;  | Increase Previewsize
+                    | Decrease Previesize
+                    | --------------------
+                    | 100 % (160 px)
+                    | 75  % (120 px)
+                    | 50 %  (80 px)
+                    | 25 %  (40 px)
+    ------------------------------------
+    - Tag Tree --&gt; | Expand All Tags
+                    | Collapse all Tags
+                    | Reset Tag Filter
+                    | Show all untaged Images (neue funktion)
+    ------------------------------------
+    - Source Directory --&gt; | Expand All Source Directories
+                            | Collapse All Source Directories
+                            | Include All Src Dirs in Filter
+                            | Exclude All Src Dirs from Filter
+                            | Inver Src Dir Filter
+    ------------------------------------
+    - Restore Tool Views
+    - Full Screen Mode  Ctrl + Shift + F
+    ====================================
+
+
+
+    ====================================
+    || Manage                         ||
+    ====================================
+    - Add Sourcedirectory
+    - Add Main Tag
+    ------------------------------------
+    - Tag filter operator = AND
+    - Tag filter operator = OR
+    ------------------------------------
+    - Lock Taging       Ctrl + l (evtl.?)
+    ====================================
+    
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2233&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Fri Aug 26 09:31:44 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Fri, 26 Aug 2005 09:31:44 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2319] header file clean up
+Message-ID: <200508260731.j7Q7ViwB027323@unicorn.berlios.de>
+
+Task #2319 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: header file clean up
+Percent Complete: 0%
+Status: Open
+Authority  : starcube
+Assigned to: 
+
+Description: to improve compile time and cleaning up:
+  - remove all code from header files
+  - remove as many includes as possible from the header files
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2319&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Aug 27 14:01:15 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 27 Aug 2005 14:01:15 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2136] create tasks for the items on the roadmap
+Message-ID: <200508271201.j7RC1FJm020929@unicorn.berlios.de>
+
+Task #2136 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Misc
+Summary: create tasks for the items on the roadmap
+Percent Complete: 100%
+Status: Closed
+Authority  : starcube
+Assigned to: 
+
+Description: several items on the roadmap are much to detailled. they must be added as tasks and removed from the roadmap.
+the roadmap should provide a rather high level sight to the projects 'roadmap' ;-)
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2136&group_id=3395&group_project_id=1010
+
+
+From noreply at berlios.de  Sun Aug 28 21:24:56 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sun, 28 Aug 2005 21:24:56 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2224] rename directory to folder
+Message-ID: <200508281924.j7SJOuYC015526@unicorn.berlios.de>
+
+Task #2224 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: rename directory to folder
+Percent Complete: 15%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: KDE programs use the name 'folder' instead of 'directory'. Rename all names and expressions 'directory' or 'dir' to 'folder'.
+
+Follow-Ups:
+
+-------------------------------------------------------
+Date: 2005-Aug-28 21:24
+By: starcube
+
+Comment:
+class SourceDir renamed to Folder... there is still a lot of work to do!
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2224&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Mon Aug 29 21:23:57 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Mon, 29 Aug 2005 21:23:57 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2319] header file clean up
+Message-ID: <200508291923.j7TJNvuI021583@unicorn.berlios.de>
+
+Task #2319 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: header file clean up
+Percent Complete: 5%
+Status: Open
+Authority  : starcube
+Assigned to: 
+
+Description: to improve compile time and cleaning up:
+  - remove all code from header files
+  - remove as many includes as possible from the header files
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2319&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Mon Aug 29 21:42:13 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Mon, 29 Aug 2005 21:42:13 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2221] imporve TreeHelper
+Message-ID: <200508291942.j7TJgDfW022027@unicorn.berlios.de>
+
+Task #2221 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: imporve TreeHelper
+Percent Complete: 100%
+Status: Closed
+Authority  : chtom
+Assigned to: 
+
+Description: The class TreeHelper is used for drawing checkboxes in the trees. The signature of this helper methods can be simplyfied and a new method 'drawMixedState' (this checkbox represents the value 'not true' and 'not false' :-) ) must be implemented.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2221&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Mon Aug 29 21:43:29 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Mon, 29 Aug 2005 21:43:29 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2231] tool tips in the tag tree per column.
+Message-ID: <200508291943.j7TJhTkx022065@unicorn.berlios.de>
+
+Task #2231 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: tool tips in the tag tree per column.
+Percent Complete: 100%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: on every tag node type:
+- the tool tip on the tags column shows the description of the tag
+- the tool tip on the value column shows the value (for boolean: set, not set, different)
+- the tool tip on the filter column shows the filter (for boolean: set, not set, not filtered)
+
+Follow-Ups:
+
+-------------------------------------------------------
+Date: 2005-Aug-29 21:43
+By: starcube
+
+Comment:
+tom: bitte testen
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2231&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Wed Aug 31 09:32:57 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Wed, 31 Aug 2005 09:32:57 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2227] backgroundcolor of imageviewer infobox
+Message-ID: <200508310732.j7V7WvY4000195@unicorn.berlios.de>
+
+Task #2227 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: backgroundcolor of imageviewer infobox
+Percent Complete: 75%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: It should be possible to set the background overly-color to another color than the overlay-text-color. This should improve the readability on different images drastically.
+
+Follow-Ups:
+
+-------------------------------------------------------
+Date: 2005-Aug-31 09:32
+By: choenig
+
+Comment:
+Implemented, but I'm not too happy with the code. I'll look at that again
+
+-------------------------------------------------------
+Date: 2005-Jul-31 20:27
+By: choenig
+
+Comment:
+Unfortunately this is not (easily) possible with the current implementation using only one color, which is converted to an alpha channel.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2227&group_id=3395&group_project_id=1008
+
+

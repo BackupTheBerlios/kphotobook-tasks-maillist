@@ -1,0 +1,139 @@
+From noreply at berlios.de  Sat Sep  3 10:02:46 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 3 Sep 2005 10:02:46 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2137] Add 'datetime' tag
+Message-ID: <200509030802.j8382kXG016446@unicorn.berlios.de>
+
+Task #2137 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Add 'datetime' tag
+Percent Complete: 90%
+Status: Open
+Authority  : starcube
+Assigned to: 
+
+Description: A datetime-tag represenets a date and a time. It must be possible to set/unset a datetime on images and one must be able to filter for datetime.
+
+Follow-Ups:
+
+-------------------------------------------------------
+Date: 2005-Sep-03 10:02
+By: starcube
+
+Comment:
+filtering the date with a pattern is already implemented. singledate can be implemend as soon as the singledate chooser is finished...
+
+-------------------------------------------------------
+Date: 2005-Jul-11 21:51
+By: starcube
+
+Comment:
+pattern and singledate is left to be implemented. but most things for this 2 subtasks are prepared already...
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2137&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Sep  3 12:00:32 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 3 Sep 2005 12:00:32 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2319] header file clean up
+Message-ID: <200509031000.j83A0Wa0020813@unicorn.berlios.de>
+
+Task #2319 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: header file clean up
+Percent Complete: 30%
+Status: Open
+Authority  : starcube
+Assigned to: 
+
+Description: to improve compile time and cleaning up:
+  - remove all code from header files
+  - remove as many includes as possible from the header files
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2319&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sun Sep  4 16:11:31 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sun, 4 Sep 2005 16:11:31 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2319] header file clean up
+Message-ID: <200509041411.j84EBV15009451@unicorn.berlios.de>
+
+Task #2319 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: header file clean up
+Percent Complete: 70%
+Status: Open
+Authority  : starcube
+Assigned to: 
+
+Description: to improve compile time and cleaning up:
+  - remove all code from header files
+  - remove as many includes as possible from the header files
+
+Follow-Ups:
+
+-------------------------------------------------------
+Date: 2005-Sep-04 16:11
+By: chtom
+
+Comment:
+Removed as many includes from the header files as possible.
+I'm writing now a script for removing obsolete includes from the cpp files.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2319&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sun Sep 11 20:46:06 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sun, 11 Sep 2005 20:46:06 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2246] Statistics after rescan
+Message-ID: <200509111846.j8BIk6U5018129@unicorn.berlios.de>
+
+Task #2246 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Statistics after rescan
+Percent Complete: 50%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: Show a statistics dialog containing infos about new/lost/... files after rescanning the filesystem.
+
+Follow-Ups:
+
+-------------------------------------------------------
+Date: 2005-Sep-11 20:46
+By: starcube
+
+Comment:
+A dialog is shown while rescanning/adding foldersn with the following infos:
+- current scanning folder
+- number of folders/files/messages
+- all scanned folders
+- all messages
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2246&group_id=3395&group_project_id=1008
+
+

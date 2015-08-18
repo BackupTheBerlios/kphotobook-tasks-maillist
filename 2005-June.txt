@@ -1,0 +1,127 @@
+From noreply at berlios.de  Wed Jun 22 08:42:09 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Wed, 22 Jun 2005 08:42:09 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2129] Add some more Mailinglists
+Message-ID: <200506220642.j5M6g9p8014602@unicorn.berlios.de>
+
+Task #2129 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Misc
+Summary: Add some more Mailinglists
+Percent Complete: 100%
+Status: Closed
+Authority  : choenig
+Assigned to: 
+
+Description: We decided to add Mailinglists for 
+bug, support, feature and tasks.
+
+Follow-Ups:
+
+-------------------------------------------------------
+Date: 2005-Jun-22 08:42
+By: choenig
+
+Comment:
+Lists are available, now sign up guys :-).
+
+-------------------------------------------------------
+Date: 2005-Jun-21 22:21
+By: choenig
+
+Comment:
+OK, lists are created and now it takes another 6-24h until they're accessible.
+
+-------------------------------------------------------
+Date: 2005-Jun-21 21:44
+By: starcube
+
+Comment:
+is there a reason for not having an own mailing list for this 'things'? One good reason for having different mailing lists is that you can let the mailprogram automatically sort the mails to different folders...
+
+-------------------------------------------------------
+Date: 2005-Jun-21 17:44
+By: choenig
+
+Comment:
+As I just got a bunch of messages to dev- from the task system, do we really need multiple diffrent mailinglists for that stuff? isn't it sufficient to send them all to dev- ? its not, that dev- is too crowded :)
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2129&group_id=3395&group_project_id=1010
+
+
+From noreply at berlios.de  Wed Jun 22 08:42:54 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Wed, 22 Jun 2005 08:42:54 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2130] Improve Timeruler
+Message-ID: <200506220642.j5M6gsZD014620@unicorn.berlios.de>
+
+Task #2130 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Improve Timeruler
+Percent Complete: 100%
+Status: Closed
+Authority  : choenig
+Assigned to: 
+
+Description: The timeruler gets a possibility to select year/month. 
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2130&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Wed Jun 22 09:21:29 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Wed, 22 Jun 2005 09:21:29 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2134] add 'quit' item to ImageViewer contextmenu
+Message-ID: <200506220721.j5M7LTIq015756@unicorn.berlios.de>
+
+Task #2134 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: add 'quit' item to ImageViewer contextmenu
+Percent Complete: 100%
+Status: Closed
+Authority  : choenig
+Assigned to: 
+
+Description: To exit the ImageViewer, its contextmenu should contain a 'quit' item. 
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2134&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jun 25 20:55:39 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 25 Jun 2005 20:55:39 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2137] Add 'datetime' tag
+Message-ID: <200506251855.j5PItdwE020731@unicorn.berlios.de>
+
+Task #2137 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Add 'datetime' tag
+Percent Complete: 70%
+Status: Open
+Authority  : starcube
+Assigned to: 
+
+Description: A datetime-tag represenets a date and a time. It must be possible to set/unset a datetime on images and one must be able to filter for datetime.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2137&group_id=3395&group_project_id=1008
+
+

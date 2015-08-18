@@ -1,0 +1,1218 @@
+From noreply at berlios.de  Tue Jul  5 22:41:05 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Tue, 5 Jul 2005 22:41:05 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2138] use XHTML and validate all pages
+Message-ID: <200507052041.j65Kf5AE012936@unicorn.berlios.de>
+
+Task #2138 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Website
+Summary: use XHTML and validate all pages
+Percent Complete: 95%
+Status: Open
+Authority  : starcube
+Assigned to: 
+
+Description: We should use XHTML for the kphotobook homepage.
+And should validate the homepage with a web validator...
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2138&group_id=3395&group_project_id=1009
+
+
+From noreply at berlios.de  Wed Jul  6 19:10:08 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Wed, 6 Jul 2005 19:10:08 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2138] use XHTML and validate all pages
+Message-ID: <200507061710.j66HA8VC009734@unicorn.berlios.de>
+
+Task #2138 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Website
+Summary: use XHTML and validate all pages
+Percent Complete: 100%
+Status: Open
+Authority  : starcube
+Assigned to: 
+
+Description: We should use XHTML for the kphotobook homepage.
+And should validate the homepage with a web validator...
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2138&group_id=3395&group_project_id=1009
+
+
+From noreply at berlios.de  Mon Jul 11 21:51:36 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Mon, 11 Jul 2005 21:51:36 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2137] Add 'datetime' tag
+Message-ID: <200507111951.j6BJpaKH018344@unicorn.berlios.de>
+
+Task #2137 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Add 'datetime' tag
+Percent Complete: 90%
+Status: Open
+Authority  : starcube
+Assigned to: 
+
+Description: A datetime-tag represenets a date and a time. It must be possible to set/unset a datetime on images and one must be able to filter for datetime.
+
+Follow-Ups:
+
+-------------------------------------------------------
+Date: 2005-Jul-11 21:51
+By: starcube
+
+Comment:
+pattern and singledate is left to be implemented. but most things for this 2 subtasks are prepared already...
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2137&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Wed Jul 20 09:02:33 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Wed, 20 Jul 2005 09:02:33 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2191] add more tag types to the tree
+Message-ID: <200507200702.j6K72XJI013465@unicorn.berlios.de>
+
+Task #2191 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: add more tag types to the tree
+Percent Complete: 0%
+Status: Open
+Authority  : choenig
+Assigned to: 
+
+Description: There are several types of tags which allows you to type in different types of data
+
+o title [done]
+o string [done]
+o enumeration [done]
+o boolean [done]
+
+not (fully) done:
+o dates
+o numeric
+
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2191&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Wed Jul 20 09:02:49 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Wed, 20 Jul 2005 09:02:49 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2191] add more tag types to the tree
+Message-ID: <200507200702.j6K72nWM013483@unicorn.berlios.de>
+
+Task #2191 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: add more tag types to the tree
+Percent Complete: 75%
+Status: Open
+Authority  : choenig
+Assigned to: 
+
+Description: There are several types of tags which allows you to type in different types of data
+
+o title [done]
+o string [done]
+o enumeration [done]
+o boolean [done]
+
+not (fully) done:
+o dates
+o numeric
+
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2191&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Thu Jul 28 13:02:10 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Thu, 28 Jul 2005 13:02:10 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2136] create tasks for the items on the roadmap
+Message-ID: <200507281102.j6SB2A8k022178@unicorn.berlios.de>
+
+Task #2136 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Misc
+Summary: create tasks for the items on the roadmap
+Percent Complete: 0%
+Status: Open
+Authority  : starcube
+Assigned to: 
+
+Description: several items on the roadmap are much to detailled. they must be added as tasks and removed from the roadmap.
+the roadmap should provide a rather high level sight to the projects 'roadmap' ;-)
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2136&group_id=3395&group_project_id=1010
+
+
+From noreply at berlios.de  Fri Jul 29 19:34:51 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Fri, 29 Jul 2005 19:34:51 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2135] add exif infos to the tagTree
+Message-ID: <200507291734.j6THYpbi027048@unicorn.berlios.de>
+
+Task #2135 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: add exif infos to the tagTree
+Percent Complete: 80%
+Status: Open
+Authority  : choenig
+Assigned to: 
+
+Description: The Tagtree should contain items for the most interesting elements of the exif data of the images. Therefor those infos need to be stored in the .xml database.
+
+Follow-Ups:
+
+-------------------------------------------------------
+Date: 2005-Jul-29 19:34
+By: starcube
+
+Comment:
+EXIF data is shown in the TagTree. But for most entries I used TagNodeString. This needs further improvements!
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2135&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Fri Jul 29 19:36:34 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Fri, 29 Jul 2005 19:36:34 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2212] Using SVG Icons
+Message-ID: <200507291736.j6THaYSl027111@unicorn.berlios.de>
+
+Task #2212 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Using SVG Icons
+Percent Complete: 0%
+Status: Open
+Authority  : starcube
+Assigned to: 
+
+Description: Instead of having png icons we should use SVG icons.
+starcube: test and prepare usage for SVG icons.
+chtom: change all icons to SVG.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2212&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Fri Jul 29 20:19:32 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Fri, 29 Jul 2005 20:19:32 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2212] Using SVG Icons
+Message-ID: <200507291819.j6TIJW9x028323@unicorn.berlios.de>
+
+Task #2212 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Using SVG Icons
+Percent Complete: 10%
+Status: Open
+Authority  : starcube
+Assigned to: 
+
+Description: Instead of having png icons we should use SVG icons.
+starcube: test and prepare usage for SVG icons.
+chtom: change all icons to SVG.
+
+Follow-Ups:
+
+-------------------------------------------------------
+Date: 2005-Jul-29 20:19
+By: starcube
+
+Comment:
+scg icons are working!
+all icons must be converted to SVG now...
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2212&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Fri Jul 29 20:22:37 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Fri, 29 Jul 2005 20:22:37 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2213] Readonly Tags
+Message-ID: <200507291822.j6TIMbmn028397@unicorn.berlios.de>
+
+Task #2213 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Readonly Tags
+Percent Complete: 70%
+Status: Open
+Authority  : starcube
+Assigned to: 
+
+Description: It must be possible to mark a tag as readonly. It is not possible to change a readonly tag itself or a value set on a readonly tag. This feature is used EXIF tags.
+Most of this is already implemented. Still todo: use a specialized context menu for readonly tags.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2213&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 15:50:40 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 15:50:40 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2138] use XHTML and validate all pages
+Message-ID: <200507301350.j6UDoeOP008199@unicorn.berlios.de>
+
+Task #2138 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Website
+Summary: use XHTML and validate all pages
+Percent Complete: 100%
+Status: Closed
+Authority  : starcube
+Assigned to: 
+
+Description: We should use XHTML for the kphotobook homepage.
+And should validate the homepage with a web validator...
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2138&group_id=3395&group_project_id=1009
+
+
+From noreply at berlios.de  Sat Jul 30 15:54:36 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 15:54:36 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2220] imporove FileSystemScanner
+Message-ID: <200507301354.j6UDsaXQ008277@unicorn.berlios.de>
+
+Task #2220 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: imporove FileSystemScanner
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: I believe that the source code can be simplyfied and the performance can be increased.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2220&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 15:57:58 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 15:57:58 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2221] imporve TreeHelper
+Message-ID: <200507301357.j6UDvw7x008339@unicorn.berlios.de>
+
+Task #2221 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: imporve TreeHelper
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: The class TreeHelper is used for drawing checkboxes in the trees. The signature of this helper methods can be simplyfied and a new method 'drawMixedState' (this checkbox represents the value 'not true' and 'not false' :-) ) must be implemented.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2221&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 16:07:00 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 16:07:00 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2222] implicit tags
+Message-ID: <200507301407.j6UE70bh008596@unicorn.berlios.de>
+
+Task #2222 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: implicit tags
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: if an image is tagged with a boolean tag this image implicitely is tagged also with all parents of this boolean tag.
+
+example: 
+
+Switzerland        [  ]    [x]
+      Aargau         [  ]    [  ]
+             Aarau    [x]    [  ]   
+
+An image tagged with Aarau must also be found if we are searching for images tagged with Aargau or Switzerland.
+This feature can be enabled/disabled.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2222&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 16:13:53 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 16:13:53 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2223] optimize filter
+Message-ID: <200507301413.j6UEDrQ1008757@unicorn.berlios.de>
+
+Task #2223 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: optimize filter
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: The filter should be optimized before given to the engine. Currently the filter looks sometimes like this:
+
+ &amp;&amp;
+   Nils = true
+   &amp;&amp;
+     &amp;&amp;
+     ||
+
+should be:
+   Nils = true
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2223&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 16:25:18 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 16:25:18 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2224] rename directory to folder
+Message-ID: <200507301425.j6UEPIIU009048@unicorn.berlios.de>
+
+Task #2224 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: rename directory to folder
+Percent Complete: 10%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: KDE programs use the name 'folder' instead of 'directory'. Rename all names and expressions 'directory' or 'dir' to 'folder'.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2224&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 16:28:14 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 16:28:14 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2225] rename radiogroup, radio to optionlist, option
+Message-ID: <200507301428.j6UESE9R009124@unicorn.berlios.de>
+
+Task #2225 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: rename radiogroup, radio to optionlist, option
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: In our opinion 'radiogroup' and 'radio' are rather technical expressions. Thus we decided to rename them to 'optionlist' and 'option'.To increase consistency between GUI and source code we also rename classes and methods.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2225&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 16:29:35 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 16:29:35 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2225] rename radiogroup, radio to optionlist, option
+Message-ID: <200507301429.j6UETZVu009211@unicorn.berlios.de>
+
+Task #2225 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: rename radiogroup, radio to optionlist, option
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: In our opinion 'radiogroup' and 'radio' are rather technical expressions. Thus we decided to rename them to 'optionlist' and 'option'.To increase consistency between GUI and source code we also rename classes and methods.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2225&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 16:29:50 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 16:29:50 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2224] rename directory to folder
+Message-ID: <200507301429.j6UETojP009226@unicorn.berlios.de>
+
+Task #2224 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: rename directory to folder
+Percent Complete: 10%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: KDE programs use the name 'folder' instead of 'directory'. Rename all names and expressions 'directory' or 'dir' to 'folder'.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2224&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 16:34:53 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 16:34:53 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2226] new tag type: link
+Message-ID: <200507301434.j6UEYrSq009374@unicorn.berlios.de>
+
+Task #2226 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: new tag type: link
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: A link tag is used to display the same tag several times in the tag tree.
+This allows the user to show desired EXIF tags somewhere in his own tag structure.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2226&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 16:45:20 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 16:45:20 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2227] backgroundcolor of imageviewer infobox
+Message-ID: <200507301445.j6UEjKQd009638@unicorn.berlios.de>
+
+Task #2227 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: backgroundcolor of imageviewer infobox
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: It should be possible to set the background overly-color to another color than the overlay-text-color. This should improve the readability on different images drastically.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2227&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 16:49:19 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 16:49:19 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2228] improved thumbnail view
+Message-ID: <200507301449.j6UEnJDa009721@unicorn.berlios.de>
+
+Task #2228 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: improved thumbnail view
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: To be able to show more/nicer information (filename, tooltip as in konqueror, context menu, border around images) we must use an own widget to display the thumbnails.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2228&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 16:54:02 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 16:54:02 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2229] configure external tools
+Message-ID: <200507301454.j6UEs2uo009859@unicorn.berlios.de>
+
+Task #2229 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: configure external tools
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: the tools configure page in the settings dialog must be finished (eventually make it possible to add and remove tools :-) )
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2229&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 16:58:35 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 16:58:35 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2230] new settings page: image viewer
+Message-ID: <200507301458.j6UEwZX2010065@unicorn.berlios.de>
+
+Task #2230 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: new settings page: image viewer
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: create a separate page 'Image Viewer' for the internal image viewer in the settings dialog.
+There is no point to display the settings for image viewer and external tools on the same page because the external tools will be executed in the context menu on an image and the image viewer is called by double click (and via context menu).
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2230&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:10:58 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:10:58 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2231] tool tips in the tag tree per column.
+Message-ID: <200507301510.j6UFAwOV010444@unicorn.berlios.de>
+
+Task #2231 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: tool tips in the tag tree per column.
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: on every tag node type:
+- the tool tip on the tags column shows the description of the tag
+- the tool tip on the value column shows the value (for boolean: set, not set, different)
+- the tool tip on the filter column shows the filter (for boolean: set, not set, not filtered)
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2231&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:13:51 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:13:51 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2232] improve rescan
+Message-ID: <200507301513.j6UFDpPX010503@unicorn.berlios.de>
+
+Task #2232 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: improve rescan
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: rescanning of the file system should not block the application and a progress dialog should be shown. This progress dialog shows the currently processed folder and allows the user to abort the rescan with a cancel button.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2232&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:16:45 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:16:45 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2233] Menu Cleanup
+Message-ID: <200507301516.j6UFGjie010620@unicorn.berlios.de>
+
+Task #2233 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Menu Cleanup
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description:     ====================================
+    || View                           ||
+    ====================================
+    - Refresh View               F5
+    - Autorefresh View   Shift + F5
+    ------------------------------------
+    - Zoom  --&gt;  | Increase Previewsize
+                    | Decrease Previesize
+                    | --------------------
+                    | 100 % (160 px)
+                    | 75  % (120 px)
+                    | 50 %  (80 px)
+                    | 25 %  (40 px)
+    ------------------------------------
+    - Tag Tree --&gt; | Expand All Tags
+                    | Collapse all Tags
+                    | Reset Tag Filter
+                    | Show all untaged Images (neue funktion)
+    ------------------------------------
+    - Source Directory --&gt; | Expand All Source Directories
+                            | Collapse All Source Directories
+                            | Include All Src Dirs in Filter
+                            | Exclude All Src Dirs from Filter
+                            | Inver Src Dir Filter
+    ------------------------------------
+    - Restore Tool Views
+    - Full Screen Mode  Ctrl + Shift + F
+    ====================================
+
+
+
+    ====================================
+    || Manage                         ||
+    ====================================
+    - Add Sourcedirectory
+    - Add Main Tag
+    ------------------------------------
+    - Tag filter operator = AND
+    - Tag filter operator = OR
+    ------------------------------------
+    - Lock Taging       Ctrl + l (evtl.?)
+    ====================================
+    
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2233&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:18:13 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:18:13 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2234] EXIF comment
+Message-ID: <200507301518.j6UFIDIg010655@unicorn.berlios.de>
+
+Task #2234 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: EXIF comment
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: implement a dock window for displaying/editing the comment in the EXIF data.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2234&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:18:52 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:18:52 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2235] Tag Tree load/save
+Message-ID: <200507301518.j6UFIq5v010681@unicorn.berlios.de>
+
+Task #2235 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Tag Tree load/save
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: Ability to store a tag tree to an XML-file which can be imported again. This also allows us to deliver several example/template Tag Trees.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2235&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:19:27 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:19:27 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2236] Drop Down Box
+Message-ID: <200507301519.j6UFJRv6010718@unicorn.berlios.de>
+
+Task #2236 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Drop Down Box
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: Drop Down Box showing allready entered text matching the entered text.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2236&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:19:49 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:19:49 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2237] Order Tags
+Message-ID: <200507301519.j6UFJnkv010737@unicorn.berlios.de>
+
+Task #2237 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Order Tags
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: The user must be able to define the ordering of the tags.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2237&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:20:56 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:20:56 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2238] store user defined icons
+Message-ID: <200507301520.j6UFKuUU010790@unicorn.berlios.de>
+
+Task #2238 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: store user defined icons
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: User can configure if the icons are copied to a specified location (to avoid losing icons)
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2238&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:21:54 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:21:54 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2239] File/Sourcedirectory  not Found
+Message-ID: <200507301521.j6UFLsep010814@unicorn.berlios.de>
+
+Task #2239 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: File/Sourcedirectory
+not Found
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: If a file or a sourcedirectory is not found during startup or rescan of the filesystem, the user should be asked what to do: ignore, remove file/sourcedirectory from database or enter new location
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2239&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:22:46 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:22:46 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2240] Move Tags
+Message-ID: <200507301522.j6UFMkAU010839@unicorn.berlios.de>
+
+Task #2240 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Move Tags
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: Tags should be movable inside the tag tree (possible solution: make it possible to change the parent in the edit dialog box of a tag)
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2240&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:23:07 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:23:07 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2241] What's this
+Message-ID: <200507301523.j6UFN7ge010855@unicorn.berlios.de>
+
+Task #2241 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: What's this
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: What's this help for all the functions - most programs have badly implemented this
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2241&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:23:38 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:23:38 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2242] META Info
+Message-ID: <200507301523.j6UFNcES010870@unicorn.berlios.de>
+
+Task #2242 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: META Info
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: Add a META Info dialog for adding/editing author, title, description, creationtime, last modification time, ... of the database. might be placed in the configure dialog
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2242&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:24:58 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:24:58 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2243] Infos in the statusbar
+Message-ID: <200507301524.j6UFOwaV010931@unicorn.berlios.de>
+
+Task #2243 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Infos in the statusbar
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: There should be shown more informations in the statusbar.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2243&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:29:22 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:29:22 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2244] Default button in  Config Dialog
+Message-ID: <200507301529.j6UFTMvF011039@unicorn.berlios.de>
+
+Task #2244 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Default button in
+Config Dialog
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: A default button on every config page. This button only defaults the settings on the current page.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2244&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:32:37 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:32:37 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2245] Apply File &  Directory Patterns
+Message-ID: <200507301532.j6UFWbQV011166@unicorn.berlios.de>
+
+Task #2245 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Apply File &
+Directory Patterns
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: File patterns and directory patterns are not considered when rescanning filesystem: existing files/directories are not removed.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2245&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:34:30 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:34:30 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2248] Rotation
+Message-ID: <200507301534.j6UFYUSO011242@unicorn.berlios.de>
+
+Task #2248 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Rotation
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: The images can be rotated - either in the database only, in the EXIF information of the photo or physically.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2248&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:33:23 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:33:23 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2246] Statistics after rescan
+Message-ID: <200507301533.j6UFXNSb011184@unicorn.berlios.de>
+
+Task #2246 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Statistics after rescan
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: Show a statistics dialog containing infos about new/lost/... files after rescanning the filesystem.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2246&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:34:04 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:34:04 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2247] Scrolling
+Message-ID: <200507301534.j6UFY4Kf011207@unicorn.berlios.de>
+
+Task #2247 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Scrolling
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: Page down, Page up: do not select another picture. Keep current selection and only scroll down/up.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2247&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:35:15 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:35:15 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2249] Maximum of previews
+Message-ID: <200507301535.j6UFZFIG011260@unicorn.berlios.de>
+
+Task #2249 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Maximum of previews
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: It should be configurable how many images are shown at once. 
+ possible solutions: 
+- [|&lt;&lt;][&lt;][1][2][3]...[10][&gt;][&gt;&gt;|]
+- [40/page][^v] and [3 of 10][^v]
+- tabs
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2249&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sat Jul 30 17:49:00 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sat, 30 Jul 2005 17:49:00 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2250] Text field width
+Message-ID: <200507301549.j6UFn0vm011624@unicorn.berlios.de>
+
+Task #2250 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: Text field width
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: Do not auto adjust the text field width (Tag Tree) after typing in a text.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2250&group_id=3395&group_project_id=1008
+
+
+From noreply at berlios.de  Sun Jul 31 20:27:51 2005
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Sun, 31 Jul 2005 20:27:51 +0200 (CEST)
+Subject: [Kphotobook-tasks] [Task #2227] backgroundcolor of imageviewer infobox
+Message-ID: <200507311827.j6VIRpK8013580@unicorn.berlios.de>
+
+Task #2227 has been updated. 
+
+Project: kphotobook
+Subproject: kpb Source
+Summary: backgroundcolor of imageviewer infobox
+Percent Complete: 0%
+Status: Open
+Authority  : chtom
+Assigned to: 
+
+Description: It should be possible to set the background overly-color to another color than the overlay-text-color. This should improve the readability on different images drastically.
+
+Follow-Ups:
+
+-------------------------------------------------------
+Date: 2005-Jul-31 20:27
+By: choenig
+
+Comment:
+Unfortunately this is not (easily) possible with the current implementation using only one color, which is converted to an alpha channel.
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=2227&group_id=3395&group_project_id=1008
+
+
